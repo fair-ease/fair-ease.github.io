@@ -15,3 +15,4 @@ _FAIR-EASE Lab:_ deliverables from the [FAIR-EASE](https://fairease.eu/) project
 
 - Specification: [https://github.com/fair-ease/py-udal-interface](https://github.com/fair-ease/py-udal-interface)
 - Example Implementation: [https://github.com/fair-ease/py-udal-fe-impl](https://github.com/fair-ease/py-udal-fe-impl)
+- POKaPOK: [https://github.com/fair-ease/py-udal-pokapok](https://github.com/fair-ease/py-udal-pokapok)
