@@ -13,6 +13,12 @@ _FAIR-EASE Lab:_ deliverables from the [FAIR-EASE](https://fairease.eu/) project
 
 ## Uniform Data Access Layer (UDAL)
 
+See [UDAL](udal.markdown) for details, including a description of the concept,
+usage, and implementation.
+
+Repositories:
+
 - Specification: [https://github.com/fair-ease/py-udal-interface](https://github.com/fair-ease/py-udal-interface)
+- Dataset Demand Register: [https://github.com/fair-ease/dataset-demand-register](https://github.com/fair-ease/dataset-demand-register)
 - Example Implementation: [https://github.com/fair-ease/py-udal-fe-impl](https://github.com/fair-ease/py-udal-fe-impl)
-- POKaPOK: [https://github.com/fair-ease/py-udal-pokapok](https://github.com/fair-ease/py-udal-pokapok)
+- POKaPOK's Implementation: [https://github.com/fair-ease/py-udal-pokapok](https://github.com/fair-ease/py-udal-pokapok)

@@ -1,0 +1,8 @@
+<div class="example">
+    <span style="font-weight: bold;">{{ include.title | default: "Example" }}:</span>
+    <span>
+        <a href="#" id="{{ include.id }}-show" class="" onclick="show('{{ include.id }}');return false">(show)</a>
+        <a href="#" id="{{ include.id }}-hide" class="hide" onclick="hide('{{ include.id }}');return false">(hide)</a>
+    </span>
+    <div id="{{ include.id }}" class="example-content hide">{{ include.content }}</div>
+</div>

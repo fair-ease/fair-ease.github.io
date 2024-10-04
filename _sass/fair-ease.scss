@@ -1,0 +1,15 @@
+@import "fair-ease-colors";
+
+.example {
+    margin: 1em 0;
+}
+
+.example-content {
+    margin: 1em 0 1em 2px;
+    padding-left: 10px;
+    border-left: 5px solid $fe-color2;
+}
+
+.hide {
+    display: none;
+}

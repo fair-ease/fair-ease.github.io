@@ -52,6 +52,7 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
+  "fair-ease-colors",
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting"
