@@ -16,6 +16,8 @@ _FAIR-EASE Lab:_ deliverables from the [FAIR-EASE](https://fairease.eu/) project
 See [UDAL](udal.markdown) for details, including a description of the concept,
 usage, and implementation.
 
+See some existing UDAL queries in the [dataset demand register](/dataset-demand-register/).
+
 Repositories:
 
 - Specification: [https://github.com/fair-ease/py-udal-interface](https://github.com/fair-ease/py-udal-interface)
