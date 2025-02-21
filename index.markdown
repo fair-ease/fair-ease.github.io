@@ -22,5 +22,6 @@ Repositories:
 
 - Specification: [https://github.com/fair-ease/py-udal-interface](https://github.com/fair-ease/py-udal-interface)
 - Dataset Demand Register: [https://github.com/fair-ease/dataset-demand-register](https://github.com/fair-ease/dataset-demand-register)
-- Example Implementation: [https://github.com/fair-ease/py-udal-fe-impl](https://github.com/fair-ease/py-udal-fe-impl)
-- POKaPOK's Implementation: [https://github.com/fair-ease/py-udal-pokapok](https://github.com/fair-ease/py-udal-pokapok)
+- Example implementation: [https://github.com/fair-ease/py-udal-fe-impl](https://github.com/fair-ease/py-udal-fe-impl)
+- POKaPOK's implementation: [https://github.com/fair-ease/py-udal-pokapok](https://github.com/fair-ease/py-udal-pokapok)
+- Coastal Water Dynamics pilot implementation: [https://github.com/fair-ease/py-udal-cwd](https://github.com/fair-ease/py-udal-cwd)
