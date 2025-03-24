@@ -3,9 +3,12 @@ layout: page
 title: "UDAL: How to Use"
 ---
 
-{% capture example_md %}{% include_relative _example.markdown %}{% endcapture %}
-{% capture example %}{{ example_md | markdownify }}{% endcapture %}
-{% include example.html id="udal_example" title="Example query" content=example %}
+{% capture udal_example_md %}{% include_relative udal/_udal_example.markdown %}{% endcapture %}
+{% capture udal_example %}{{ udal_example_md | markdownify }}{% endcapture %}
+{% include example.html id="udal_example" title="Example query" content=udal_example %}
+{% capture mgo_example_md %}{% include_relative udal/_mgo_example.markdown %}{% endcapture %}
+{% capture mgo_example %}{{ mgo_example_md | markdownify }}{% endcapture %}
+{% include example.html id="mgo_example" title="Example query - MGO Observatory" content=mgo_example %}
 
 - Find a UDAL implementation (e.g.,
   [https://github.com/fair-ease/py-udal-fe-impl](https://github.com/fair-ease/py-udal-fe-impl))
