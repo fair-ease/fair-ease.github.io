@@ -10,6 +10,7 @@ _FAIR-EASE Lab:_ deliverables from the [FAIR-EASE](https://fairease.eu/) project
 ## Interdisciplinary Data Discovery and Access Service (IDDAS)
 
 - Repository: [https://github.com/fair-ease/IDDAS](https://github.com/fair-ease/IDDAS)
+- Semantic Assets / Standards: [https://lab.fairease.eu/asset-standards/](https://lab.fairease.eu/asset-standards/)
 
 ## Uniform Data Access Layer (UDAL)
 
